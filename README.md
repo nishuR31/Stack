@@ -1,7 +1,7 @@
 
-### Stack Implementation with Colorful CLI
+### <h1>Stack Implementation with Colorful CLI </h1>
 
-This Python project implements a basic stack data structure with essential operations such as push, pop, peek, display, and check for emptiness. The project leverages the `colorama` library to enhance the command-line interface (CLI) with vibrant colors, providing a more engaging user experience.
+**This Python project implements a basic stack data structure with essential operations such as push, pop, peek, display, and check for emptiness. The project leverages the `colorama` library to enhance the command-line interface (CLI) with vibrant colors, providing a more engaging user experience.**
 
 
 <br>
@@ -58,7 +58,7 @@ source venv/bin/activate
 ```
 
 ## 3. Requirements
-This project requires Python 3.x and the following Python package:
+This project requires Python 3.x  and the following Python package:
 - `colorama`
 
 ```bash
